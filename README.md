@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.3.0_06-03-24 - Ovation Reve E-3](https://github.com/Chauvet-Pro/OVATIONREVEE3/blob/42bd5332d1d066994851a3fef31c50e9628e5552/firmware/V1.3.0_06-03-24.zip)
+[V1.3.0 - Ovation Reve E-3](https://github.com/Chauvet-Pro/OVATIONREVEE3/blob/42bd5332d1d066994851a3fef31c50e9628e5552/firmware/V1.3.0_06-03-24.zip)
 - Improved low-end dimming performance
 
 [V1.230212 - Ovation Reve E-3](https://github.com/Chauvet-Pro/OVATIONREVEE3/blob/42bd5332d1d066994851a3fef31c50e9628e5552/firmware/V1.230112.zip)
